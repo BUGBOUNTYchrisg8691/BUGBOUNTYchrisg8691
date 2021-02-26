@@ -1,5 +1,4 @@
-## Hi there 👋
-## My name is Christopher Girvin
+## Howdy folks 👋
 _____
 * Working to improve my skills as a Web Developer with all the resources I can find, including currently being enrolled in Lambda School
 * Together with my friend's, Seth and David, branching into freelance Web Development in order to get real world experience with team web development
@@ -16,6 +15,10 @@ _____
   * Python
   * CI/CD
   * Git/GitHub/GitLab/Git Kraken
+### 📫 How to reach me:
+* [Business Site](https://www.delaterredevs.com)
+* [LinkedIn](https://www.linkedin.com/in/christopher-girvin/)
+* [Email](chrisg8691@gmail.com)
 
 
 <!--
