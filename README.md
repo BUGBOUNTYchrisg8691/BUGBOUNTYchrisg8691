@@ -1,7 +1,6 @@
 ## Hi there 👋
---------------
 ## My name is Christopher Girvin
-________________________________
+_____
 * Working to improve my skills as a Web Developer with all the resources I can find, including currently being enrolled in Lambda School
 * Most notable kills include:
 --*  
