@@ -18,7 +18,7 @@ _____
 ### 📫 How to reach me:
 * [Business Site](https://www.delaterredevs.com)
 * [LinkedIn](https://www.linkedin.com/in/christopher-girvin/)
-* [Email](chrisg8691@gmail.com)
+* Email - chrisg8691@gmail.com
 
 
 <!--
