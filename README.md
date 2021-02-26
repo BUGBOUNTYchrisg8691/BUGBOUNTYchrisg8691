@@ -15,7 +15,7 @@ _____
   * Vanilla JavaScript
   * Python
   * CI/CD
-  * 
+  * Git/GitHub/GitLab/Git Kraken
 
 
 <!--
