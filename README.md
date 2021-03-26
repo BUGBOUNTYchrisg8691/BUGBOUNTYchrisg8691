@@ -16,7 +16,6 @@ _____
   * CI/CD
   * Git/GitHub/GitLab/Git Kraken
 ### 📫 How to reach me:
-* [Business Site](https://www.delaterredevs.com)
 * [LinkedIn](https://www.linkedin.com/in/christopher-girvin/)
 * Email - chrisg8691@gmail.com
 
