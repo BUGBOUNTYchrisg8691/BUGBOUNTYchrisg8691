@@ -16,7 +16,7 @@ _____
   * CI/CD
   * Git/GitHub/GitLab/Git Kraken
 
-[<img src="icons8-linkedin-24.png" alt="twitter icon" /> LinkedIn](https://www.linkedin.com/in/christopher-girvin/)&nbsp; &nbsp; |&nbsp; &nbsp; [<img src="icons8-twitter-24.png" alt="twitter icon" /> Twitter](https://twitter.com/chrisg8691dev)&nbsp; &nbsp; |&nbsp; &nbsp; [<img src="medium-24.png" alt="medium icon" /> Medium](https://chrisg8691.medium.com/)
+[<img src="icons8-linkedin-24.png" alt="twitter icon" /> LinkedIn](https://www.linkedin.com/in/christopher-girvin/)&nbsp; |&nbsp; [<img src="icons8-twitter-24.png" alt="twitter icon" /> Twitter](https://twitter.com/chrisg8691dev)&nbsp; |&nbsp; [<img src="medium-24.png" alt="medium icon" /> Medium](https://chrisg8691.medium.com/)
 
 ### <img src="icons8-email-open-24.png" alt="email icon" /> Email: [chrisg8691@gmail.com](mailto:chrisg8691@gmail.com)
 
