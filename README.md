@@ -16,9 +16,9 @@ _____
   * CI/CD
   * Git/GitHub/GitLab/Git Kraken
 ### 📫 How to reach me:
-* <img src="icons8-linkedin-48.png" /> [LinkedIn](https://www.linkedin.com/in/christopher-girvin/)
-* <img src="icons8-twitter-48.png" /> [Twitter](https://twitter.com/chrisg8691dev)
-* Email - chrisg8691@gmail.com
+* <img src="icons8-linkedin-24.png" alt="twitter icon" /> [LinkedIn](https://www.linkedin.com/in/christopher-girvin/)
+* <img src="icons8-twitter-24.png" alt="twitter icon" /> [Twitter](https://twitter.com/chrisg8691dev)
+* <img src="icons8-email-open-25.png" alt="email icon" /> chrisg8691@gmail.com
 
 
 <!--
