@@ -16,7 +16,7 @@ _____
   * CI/CD
   * Git/GitHub/GitLab/Git Kraken
 
-[Come visit my site!](chrisgirvin.dev)
+[Come visit my site!](https://www.chrisgirvin.dev)
 
 [<img src="icons8-linkedin-24.png" alt="twitter icon" /> LinkedIn](https://www.linkedin.com/in/christopher-girvin/)&nbsp; |&nbsp; [<img src="icons8-twitter-24.png" alt="twitter icon" /> Twitter](https://twitter.com/chrisg8691dev)&nbsp; |&nbsp; [<img src="medium-24.png" alt="medium icon" /> Medium](https://chrisg8691.medium.com/)
 
